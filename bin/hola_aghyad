@@ -1,0 +1,5 @@
+require 'hola_aghyad'
+
+puts "executable file works saying:\n\n"
+
+puts HolaAghyad.hi ARGV[0]

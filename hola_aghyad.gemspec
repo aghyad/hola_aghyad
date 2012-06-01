@@ -1,6 +1,7 @@
 Gem::Specification.new do |s|
   s.name          = 'hola_aghyad'
-  s.version       = '0.1.1'
+  s.version       = '1.0.1'
+  s.executables   << "hola_aghyad"
   s.date          = "2012-06-01"
   s.summary       = "Hola Aghyad! This gem is a training test of ruby dynamic creation of RubyGems. Please, contact me at aghyad1984@hotmail.com"
   s.description   = "A simple hello world gem"
