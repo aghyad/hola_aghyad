@@ -1,9 +1,12 @@
-************************************************************************
+************************************************************************************
 
-	HOLA AGHYAD!
+HOLA AGHYAD!
 	
-	This gem is a training test of ruby dynamic creation of RubyGems. Please, contact me at aghyad1984@hotmail.com
-	
-	Ciao!
+This gem is a training test of ruby dynamic creation of RubyGems. This gem is available to install at https://rubygems.org/gems/hola_aghyad
+All what you need to do is 
 
-************************************************************************
+$ gem install hola_aghyad
+
+Thanks!
+
+************************************************************************************
