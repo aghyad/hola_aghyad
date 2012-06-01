@@ -1,5 +1,8 @@
 class HolaAghyad
-  def self.hi
-    puts "<<< Hello .. this is my first gem's output!!! >>>"
-  end  
+  def self.hi(language = "english")
+    translator = Translator.new(language)
+    puts translator.hi
+  end
 end
+
+require 'hola_aghyad/translator'
